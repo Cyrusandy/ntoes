@@ -196,7 +196,7 @@ FAILED (remote: Partition should be flashed in fastbootd)
 
 - mkdir android-kernel && cd android-kernel
 - repo init -u https://android.googlesource.com/kernel/manifest -b android-msm-crosshatch-4.9-android12
-  （将 `android-msm-crosshatch-4.9-android12` 替换为自己手机的内核版本）
+  （将 android-msm-crosshatch-4.9-android12 替换为自己手机的内核版本）
 ```
 💥 报错
 
